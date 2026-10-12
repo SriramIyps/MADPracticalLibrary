@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MAD Practical Library</string>
+    <string name="app_subtitle">10 Complete Practicals for Android Studio</string>
+    <string name="search_hint">Search practical by number, name, or file...</string>
+    <string name="copy_all">Copy All Files</string>
+    <string name="copy_code">Copy Code</string>
+    <string name="open_files">View Files</string>
+    <string name="copied_to_clipboard">Copied to clipboard!</string>
+    <string name="files_label">Files:</string>
+    <string name="programme_details">Programme Details</string>
+    <string name="notes_label">Note:</string>
+    <string name="select_file">Select a file to view:</string>
+</resources>

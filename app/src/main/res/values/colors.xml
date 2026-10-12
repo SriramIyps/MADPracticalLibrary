@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_light">#EEF2FF</color>
+    <color name="primary_variant">#4338CA</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="secondary">#0EA5E9</color>
+    <color name="secondary_light">#E0F2FE</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="border">#E2E8F0</color>
+
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_tertiary">#94A3B8</color>
+
+    <color name="accent_green">#10B981</color>
+    <color name="accent_green_light">#D1FAE5</color>
+    <color name="accent_amber">#F59E0B</color>
+    <color name="accent_amber_light">#FEF3C7</color>
+    <color name="accent_red">#EF4444</color>
+    <color name="accent_red_light">#FEE2E2</color>
+    <color name="accent_purple">#8B5CF6</color>
+    <color name="accent_purple_light">#EDE9FE</color>
+
+    <!-- Code Viewer -->
+    <color name="code_background">#F8FAFC</color>
+    <color name="code_gutter_background">#F1F5F9</color>
+    <color name="code_gutter_text">#94A3B8</color>
+    <color name="code_text">#0F172A</color>
+    <color name="code_border">#CBD5E1</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
